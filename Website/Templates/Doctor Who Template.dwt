@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Untitled Document</title>
+<title>The Doctor Who Website</title>
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
@@ -15,19 +15,29 @@
     <td>[Banner]</td>
   </tr>
   <tr>
-    <td>[Primary Navigation]</td>
+    <td><a href="../index.html">Home</a> | <a href="../the-doctors/index.html">The Doctors</a> | <a href="../the-companions/index.html">The Companions</a> | <a href="../the-villains/index.html">The Villains</a> | <a href="../show-history/index.html">Show History</a></td>
   </tr>
 </table>
 <table>
   <tr>
     <td>[Secondary Navigation]</td>
-    <td>[Page Content]</td>
+    <td><!-- TemplateBeginEditable name="Page Content" -->[Page Content]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td>[Class Links]</td>
-    <td>[Class Links]</td>
+    <td><p>Brendan Davey</p>
+    <p>Monica DuCong'e</p>
+    <p>Erik Eyler</p>
+    <p>Kayleen Garcie</p>
+    <p>Katie Hyche</p>
+    <p>Ryan Moeller</p></td>
+    <td><p>Christine O'Brien</p>
+    <p>Alex Recinos</p>
+    <p>Julia Schwartz</p>
+    <p>Madeleine Schwartz</p>
+    <p>Ann Marie Skjold</p>
+    <p>Ashly Wilkins</p></td>
     <td>[Reference Links]</td>
   </tr>
 </table>
