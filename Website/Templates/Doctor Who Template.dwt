@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table>
+  <tr>
+    <td>[Banner]</td>
+  </tr>
+  <tr>
+    <td>[Primary Navigation]</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>[Secondary Navigation]</td>
+    <td>[Page Content]</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>[Class Links]</td>
+    <td>[Class Links]</td>
+    <td>[Reference Links]</td>
+  </tr>
+</table>
+</body>
+</html>
