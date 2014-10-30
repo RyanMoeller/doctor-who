@@ -42,29 +42,29 @@
       </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Companions Submenu']" -->
     <ul>
-      <li>Rose Tyler</li>
-      <li>Mickey Smith</li>
-      <li>Jack Harkness</li>
-      <li>Sarah Jane Smith</li>
-      <li>Martha Jones</li>
-      <li>Donna Noble</li>
-      <li>Amy Pond</li>
-      <li>Rory Williams</li>
-      <li>River Song</li>
-      <li>Clara Oswald </li>
+      <li><a href="../the-companions/characters/rose-tyler.html">Rose Tyler</a></li>
+      <li><a href="../the-companions/characters/mickey-smith.html">Mickey Smith</a></li>
+      <li><a href="../the-companions/characters/jack-harkness.html">Jack Harkness</a></li>
+      <li><a href="../the-companions/characters/sarah-jane-smith.html">Sarah Jane Smith</a></li>
+      <li><a href="../the-companions/characters/martha-jones.html">Martha Jones</a></li>
+      <li><a href="../the-companions/characters/donna-noble.html">Donna Noble</a></li>
+      <li><a href="../the-companions/characters/amy-pond.html">Amy Pond</a></li>
+      <li><a href="../the-companions/characters/rory-williams.html">Rory Williams</a></li>
+      <li><a href="../the-companions/characters/river-song.html">River Song</a></li>
+      <li><a href="../the-companions/characters/clara-oswald.html">Clara Oswald </a></li>
     </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['The Villains']" -->
     <ul>
-      <li>The Master </li>
-      <li>The Daleks</li>
-      <li>The Cybermen</li>
-      <li>The Silence</li>
-      <li>The Sontarans</li>
-      <li>The Weeping Angels</li>
-      <li>The Great Intelligence</li>
-      <li>The Zygons</li>
-      <li>The Family Slitheen</li>
-      <li>The Empress of Racnoss </li>
+      <li><a href="../the-villains/characters/the-master.html">The Master </a></li>
+      <li><a href="../the-villains/characters/the-daleks.html">The Daleks</a></li>
+      <li><a href="../the-villains/characters/the-cybermen.html">The Cybermen</a></li>
+      <li><a href="../the-villains/characters/the-silence.html">The Silence</a></li>
+      <li><a href="../the-villains/characters/the-sontarans.html">The Sontarans</a></li>
+      <li><a href="../the-villains/characters/the-weeping-angels.html">The Weeping Angels</a></li>
+      <li><a href="../the-villains/characters/the-great-intelligence.html">The Great Intelligence</a></li>
+      <li><a href="../the-villains/characters/the-zygons.html">The Zygons</a></li>
+      <li><a href="../the-villains/characters/the-family-slitheen.html">The Family Slitheen</a></li>
+      <li><a href="../the-villains/characters/the-empress-of-racnoss.html">The Empress of Racnoss </a></li>
     </ul>
     <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['Show History']" -->
     <ul>
