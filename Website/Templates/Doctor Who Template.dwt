@@ -19,7 +19,7 @@
 <body>
 <table class="general-width">
   <tr>
-    <td><img src="../images/banners/the-doctors.jpg" width="1000" height="200" alt="The Doctors Banner"></td>
+    <td><p><img src="../images/banners/the-doctors.jpg" width="1000" height="200" alt="The Doctors Banner"></p></td>
   </tr>
   <tr>
     <td><a href="../index.html">Home</a> | <a href="../the-doctors/index.html">The Doctors</a> | <a href="../the-companions/index.html">The Companions</a> | <a href="../the-villains/index.html">The Villains</a> | <a href="../show-history/index.html">Show History</a></td>
@@ -77,7 +77,7 @@
       <li><a href="../show-history/2005-revival.html">2005 Revival</a>
     </li>
     </ul>
-    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['twelfth-doctor']" --><img src="../images/doctor-images/Twelfth Doctor Poster.jpg" width="300" height="425" alt="12th-doctor"><!-- TemplateEndIf --></td>
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['twelfth-doctor']" --><img src="../images/doctor-images/twelfth-doctor-poster.jpg" width="300" height="425" alt="12th-doctor"><!-- TemplateEndIf --></td>
     <td><!-- TemplateBeginEditable name="Page Content" -->[Page Content]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
