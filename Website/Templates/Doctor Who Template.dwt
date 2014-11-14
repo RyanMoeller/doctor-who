@@ -12,6 +12,8 @@
 <!-- TemplateParam name="The Villains" type="boolean" value="false" -->
 <!-- TemplateParam name="Show History" type="boolean" value="false" -->
 <link href="../styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateParam name="12th Doctor Image" type="boolean" value="false" -->
+<!-- TemplateParam name="twelfth-doctor" type="boolean" value="false" -->
 </head>
 
 <body>
@@ -72,9 +74,10 @@
       <li><a href="../show-history/origins.html">Origins</a></li>
       <li><a href="../show-history/the-original-series.html">The Original Series</a></li>
       <li><a href="../show-history/1996-film.html">1996 Film</a></li>
-      <li><a href="../show-history/2005-revival.html">2005 Revival</a></li>
+      <li><a href="../show-history/2005-revival.html">2005 Revival</a>
+    </li>
     </ul>
-    <!-- TemplateEndIf --></td>
+    <!-- TemplateEndIf --><!-- TemplateBeginIf cond="_document['twelfth-doctor']" --><img src="../images/doctor-images/Twelfth Doctor Poster.jpg" width="300" height="425" alt="12th-doctor"><!-- TemplateEndIf --></td>
     <td><!-- TemplateBeginEditable name="Page Content" -->[Page Content]<!-- TemplateEndEditable --></td>
   </tr>
 </table>
