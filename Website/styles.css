@@ -34,21 +34,21 @@ table {
 }
 .image-rap {
 	float: left;
-	margin-right: 100px;
-	margin-top: 10px;
-	margin-bottom: 50px;
-	padding: 15px;
+	margin-right: 25px;
+	margin-top: 11px;
+	margin-bottom: 10px;
+	padding: 7px;
 	background-color: #999;
-	border-top-width: 10px;
-	border-right-width: 10px;
-	border-bottom-width: 10px;
-	border-left-width: 10px;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #D60000;
-	border-right-color: #900;
-	border-bottom-color: #5C0000;
-	border-left-color: #900;
+	border-top-width: 18px;
+	border-right-width: 18px;
+	border-bottom-width: 18px;
+	border-left-width: 18px;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+	border-top-color: #0000CB;
+	border-right-color: #009;
+	border-bottom-color: #000053;
+	border-left-color: #009;
 }
